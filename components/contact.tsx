@@ -1,9 +1,10 @@
 import { ArrowUpRight } from 'lucide-react'
+import { ContactForm } from './contact-form'
 
 const LINKS = [
   { label: 'email', value: 'patraksambit2@gmail.com', href: 'mailto:patraksambit2@gmail.com' },
-  { label: 'github', value: 'github.com/sambit', href: '#' },
-  { label: 'linkedin', value: 'in/sambit', href: '#' },
+  { label: 'github', value: 'github.com/sambit031207', href: 'https://github.com/sambit031207' },
+  { label: 'linkedin', value: 'in/k-sambit-patra-33a8a0390', href: 'https://www.linkedin.com/in/k-sambit-patra-33a8a0390/' },
 ]
 
 export function Contact() {
@@ -47,6 +48,7 @@ export function Contact() {
                 </li>
               ))}
             </ul>
+            <ContactForm />
           </div>
         </div>
 
