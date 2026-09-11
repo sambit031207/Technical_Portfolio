@@ -3,7 +3,7 @@ import { ContactForm } from './contact-form'
 
 const LINKS = [
   { label: 'email', value: 'patraksambit2@gmail.com', href: 'mailto:patraksambit2@gmail.com' },
-  { label: 'github', value: 'github.com/sambit031207', href: 'https://github.com/sambit031207' },
+  { label: 'github', value: 'github.com/sambit031207/Technical_Portfolio', href: 'https://github.com/sambit031207/Technical_Portfolio' },
   { label: 'linkedin', value: 'in/k-sambit-patra-33a8a0390', href: 'https://www.linkedin.com/in/k-sambit-patra-33a8a0390/' },
 ]
 
